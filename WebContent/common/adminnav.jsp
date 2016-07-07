@@ -232,47 +232,32 @@
             <div class="navbar-default sidebar" role="navigation">
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
-                    	<!-- 시스템관리자 -->
                         <li>
-                            <a href="#">권한코드관리<span class="fa arrow"></span></a>
-                            <ul class="nav nav-second-level">
-                                <li>
-                                    <a href="">권한코드추가</a>
-                                </li>
-                                <li>
-                                    <a href="">권한코드목록</a>
-                                </li>
-                            </ul>
-                            <!-- /.nav-second-level -->
+                            <a href="${root }/admin/permission.jsp">권한코드관리</a>
                         </li>
                         <li>
-                            <a href="#">공휴일관리</a>
+                            <a href="${root }/admin/inout.jsp">출퇴근 코드 관리</a>
                         </li>
-                        
-                        <!-- 인사관리자 -->
+                        <li>
+                            <a href="${root }/admin/schedule.jsp">일정관리</a>
+                        </li>
                         <li>
                             <a href="#">사원관리<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="#">사원등록</a>
+                                    <a href="${root }/admin/employee.jsp">사원등록</a>
                                 </li>
                                 <li>
-                                    <a href="#">사원목록<span class="fa arrow"></span></a>
-                                    <ul class="nav nav-third-level">
-                                        <li>
-                                            <a href="#">사원목록</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">퇴사자목록</a>
-                                        </li>
-                                    </ul>
-                                    <!-- /.nav-third-level -->
+                                    <a href="#">사원목록</a>
                                 </li>
                             </ul>
                             <!-- /.nav-second-level -->
                         </li>
                         <li>
-                            <a href="#">조직관리</a>
+                            <a href="${root }/admin/organization.jsp">부서/직급 설정</a>
+                        </li>
+                        <li>
+                            <a href="${root }/admin/chart.jsp">통계</a>
                         </li>
                     </ul>
                 </div>

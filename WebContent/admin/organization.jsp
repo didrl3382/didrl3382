@@ -14,7 +14,7 @@
 			<tbody>
 				<tr>
 					<td colspan="3" align="right" width="20">
-						<button type="button" class="btn btn-default btn-xs">부서등록</button>
+						<button type="button" class="btn btn-primary btn-xs">부서등록</button>
 					</td>
 				</tr>
 				<tr>
@@ -161,7 +161,7 @@
                         </select> 
 					</td>
 					<td align="center">
-						<button type="button" class="btn btn-default btn-sm">변경</button>
+						<button type="button" class="btn btn-primary btn-sm">변경</button>
 					</td>
 				</tr>
 			</tbody>

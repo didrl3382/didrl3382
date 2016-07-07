@@ -24,7 +24,7 @@
                 	</select>
 				</td>
 				<td colspan="5" align="right">
-					<button type="button" class="btn btn-default btn-sm">등록</button>
+					<button type="button" class="btn btn-primary btn-sm">등록</button>
 				</td>
 			</tr>
 			<tr>

@@ -16,10 +16,10 @@
 		<tbody>
 			<tr>
 				<td colspan="4">
-					<button type="button" class="btn btn-default btn-sm">목록</button>
-					<button type="button" class="btn btn-default btn-sm">인쇄</button>
-					<button type="button" class="btn btn-default btn-sm">수정</button>
-					<button type="button" class="btn btn-default btn-sm">삭제</button>
+					<button type="button" class="btn btn-primary btn-sm">목록</button>
+					<button type="button" class="btn btn-primary btn-sm">인쇄</button>
+					<button type="button" class="btn btn-primary btn-sm">수정</button>
+					<button type="button" class="btn btn-danger btn-sm">삭제</button>
 				</td>
 			</tr>
 			<tr>
@@ -101,8 +101,8 @@
                     </select>
 				</td>
 				<td>
-					<button type="button" class="btn btn-default btn-sm">의견보기(숫자)</button>
-					<button type="button" class="btn btn-default btn-sm">수정</button>
+					<button type="button" class="btn btn-primary btn-sm">의견보기(숫자)</button>
+					<button type="button" class="btn btn-primary btn-sm">수정</button>
 				</td>
 			</tr>
 			
@@ -135,8 +135,8 @@
                     </select>
 				</td>
 				<td>
-					<button type="button" class="btn btn-default btn-sm">의견보기(숫자)</button>
-					<button type="button" class="btn btn-default btn-sm">수정</button>
+					<button type="button" class="btn btn-primary btn-sm">의견보기(숫자)</button>
+					<button type="button" class="btn btn-primary btn-sm">수정</button>
 				</td>
 			</tr>
 			
